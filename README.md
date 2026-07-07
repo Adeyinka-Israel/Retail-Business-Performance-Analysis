@@ -22,7 +22,7 @@ A national retail company has experienced:
 
 Management wants to understand the root causes of these issues and identify practical strategies to improve business performance.
 
-![Business Problem](Images/Business_Problem.png)
+![Business Problem](Images/Business_Problem_and_Objectives.png)
 
 ---
 
@@ -183,11 +183,11 @@ Retail-Business-Performance-Analysis
 
 # Project Deliverables
 
-- ✅ Excel Dataset
-- ✅ Interactive Power BI Dashboard
-- ✅ Business Presentation
-- ✅ Executive Insights
-- ✅ Strategic Recommendations
+- Excel Dataset
+- Interactive Power BI Dashboard
+- Business Presentation
+- Executive Insights
+- Strategic Recommendations
 
 ---
 
