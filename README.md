@@ -37,7 +37,7 @@ The project aims to:
 - Investigate customer complaint trends
 - Recommend data-driven strategies for operational improvement
 
-![Business Objectives](Images/Business_Objective.png)
+![Business Objectives](Images/Business_Problem_and_Objective.png)
 
 ---
 
