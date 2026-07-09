@@ -21,9 +21,6 @@ A national retail company has experienced:
 - Inconsistent profitability across branches
 
 Management wants to understand the root causes of these issues and identify practical strategies to improve business performance.
-
-![Business Problem](Images/Business_Problem_and_Objectives.png)
-
 ---
 
 # Business Objectives
