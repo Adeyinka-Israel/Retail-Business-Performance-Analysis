@@ -90,7 +90,6 @@ The dashboard includes:
 | Total Profit | $16M |
 | Average Satisfaction | 3.87 |
 | Average Delivery Days | 3.44 |
-
 ---
 
 # Key Insights
