@@ -116,6 +116,8 @@ The dashboard includes:
 - Lagos experienced the longest average delivery time.
 - Longer delivery periods were associated with lower customer satisfaction.
 
+**Below is a picture of the Key insights, other images to suppport insights can be found in "Presentation"**
+
 ![Key Insights_From_Presentation](Images/Key_Insights.png)
 
 ---
